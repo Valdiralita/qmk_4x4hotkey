@@ -1,0 +1,21 @@
+{
+    "keyboard_name": "qmk_4x4hotkey",
+    "manufacturer": "Valdiralita",
+    "url": "https://github.com/Valdiralita/qmk_4x4hotkey",
+    "maintainer": "Valdiralita",
+    "usb": {
+        "vid": "0xEEEE",
+        "pid": "0x2022",
+        "device_version": "0.0.1"
+    },
+    "layouts": {
+        "LAYOUT_default": {
+            "layout": [
+                { "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 2, "y": 0 }, { "x": 3, "y": 0 },
+                { "x": 0, "y": 1 }, { "x": 1, "y": 1 }, { "x": 2, "y": 1 }, { "x": 3, "y": 1 },
+                { "x": 0, "y": 2 }, { "x": 1, "y": 2 }, { "x": 2, "y": 2 }, { "x": 3, "y": 2 },
+                { "x": 0, "y": 3 }, { "x": 1, "y": 3 }, { "x": 2, "y": 3 }, { "x": 3, "y": 3 }
+            ]
+        }
+    }
+}
