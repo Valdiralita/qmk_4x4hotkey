@@ -1,0 +1,11 @@
+{
+    "keyboard_name": "fullsize",
+    "manufacturer": "Valdiralita",
+    "url": "https://github.com/",
+    "maintainer": "Valdiralita",
+    "usb": {
+        "vid": "0xCEED",
+        "pid": "0x2337",
+        "device_version": "1.0.0"
+    }
+}
